@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Hxwtn77ZJk36qFl8U8cUxcsLUDRZEkMzPqquhmjCims=",
+  "Source": "SimpleWebApplication.WebApi",
+  "BasePath": "_content/SimpleWebApplication.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

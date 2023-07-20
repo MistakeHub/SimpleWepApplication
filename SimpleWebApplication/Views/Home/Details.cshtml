@@ -1,0 +1,120 @@
+﻿@{
+    ViewData["Title"] = "Details";
+}
+<input type="hidden" id="idcompany" value="@ViewBag.Id" />
+<script src="~/js/ComapnyDetails.js" asp-append-version="true"></script>
+<div class="container">
+ 
+    <div class="block" style=" border-bottom: 1px solid #808080; border-top: 1px solid #808080; ">
+        <h3>Info</h3>
+        <form action="" method="post" class="form-example">
+            <div class="form-example">
+                <label >ID: </label>
+                <input  id="id" required>
+            </div>
+            <div class="form-example">
+                <label >Name: </label>
+                <input  id="name" name="email"  required>
+            </div>
+            <div class="form-example">
+                <label >Address: </label>
+                <input id="address" name="email"  required>
+            </div>
+            <div class="form-example">
+                <label >City: </label>
+                <input  id="city" name="email"  required>
+            </div>
+
+            <div class="form-example">
+                <label >State: </label>
+                <input  id="state" required>
+            </div>
+        </form>
+    </div>
+    <div class="block" style=" border-bottom: 1px solid #808080; border-top: 1px solid #808080;">
+        <h3>History</h3>
+        <table>
+            <thead border="1">
+                <tr>
+                    <td align="left">Order Date</td>
+                    <td align="left">Store City</td>
+
+                </tr>
+            </thead>
+            <tbody id="gridshistories">
+              <tr>
+                  
+              </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="block" style=" border-bottom: 1px solid #808080; border-top: 1px solid #808080;">
+        <h3>Notes</h3>
+        <table>
+            <thead border="1">
+                <tr>
+                    <td align="left">Invoice Number</td>
+                    <td align="left">Employee</td>
+
+                </tr>
+            </thead>
+            <tbody id="gridsnotes">
+             
+            </tbody>
+        </table>
+    </div>
+
+    <div class="smallcontainer" >
+        <h3>Employees</h3>
+        <div class="block" style=" float: left;width:240px; ">
+            <table>
+                <thead border="1">
+                    <tr>
+                        <td align="left">First Name</td>
+                        <td align="left">Last Name</td>
+
+                    </tr>
+                </thead>
+                <tbody id="gridsemployees">
+                    <tr>
+                       
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+     
+
+        <div class="hugeblock"  >
+
+            <form action="" method="post" class="form-example">
+                <div class="form-example" style="white-space:nowrap">
+                    <label  >first name: </label>
+                    <input id="firstname"  sty; required>
+                </div>
+                <div class="form-example" style="white-space:nowrap">
+                    <label  >Last Name: </label>
+                    <input  id="lastname"  required>
+                </div>
+                <div class="form-example" style="white-space:nowrap">
+                    <label>Title: </label>
+                    <input  id="title"  required>
+                </div>
+
+                <div class="form-example" style="white-space:nowrap">
+                    <label >Birth Date: </label>
+                    <input  id="birthdate"   required>
+                </div>
+
+                <div class="form-example" style="white-space:nowrap">
+                    <label >Position: </label>
+                    <input  id="position" n required>
+                </div>
+            </form>
+        </div>
+    </div>
+
+ 
+
+ 
+</div>

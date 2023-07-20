@@ -1,0 +1,12 @@
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\bin\Debug\net7.0\SimpleWebApplication.Domain.deps.json
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\bin\Debug\net7.0\SimpleWebApplication.Domain.dll
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\bin\Debug\net7.0\SimpleWebApplication.Domain.pdb
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\obj\Debug\net7.0\SimpleWebApplication.Domain.csproj.AssemblyReference.cache
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\obj\Debug\net7.0\SimpleWebApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\obj\Debug\net7.0\SimpleWebApplication.Domain.AssemblyInfoInputs.cache
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\obj\Debug\net7.0\SimpleWebApplication.Domain.AssemblyInfo.cs
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\obj\Debug\net7.0\SimpleWebApplication.Domain.csproj.CoreCompileInputs.cache
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\obj\Debug\net7.0\SimpleWebApplication.Domain.dll
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\obj\Debug\net7.0\refint\SimpleWebApplication.Domain.dll
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\obj\Debug\net7.0\SimpleWebApplication.Domain.pdb
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Domain\obj\Debug\net7.0\ref\SimpleWebApplication.Domain.dll

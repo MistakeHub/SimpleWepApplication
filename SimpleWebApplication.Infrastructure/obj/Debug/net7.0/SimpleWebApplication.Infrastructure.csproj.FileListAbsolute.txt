@@ -1,0 +1,15 @@
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\bin\Debug\net7.0\SimpleWebApplication.Infrastructure.deps.json
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\bin\Debug\net7.0\SimpleWebApplication.Infrastructure.dll
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\bin\Debug\net7.0\SimpleWebApplication.Infrastructure.pdb
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\bin\Debug\net7.0\SimpleWebApplication.Domain.dll
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\bin\Debug\net7.0\SimpleWebApplication.Domain.pdb
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\SimpleWebApplication.Infrastructure.csproj.AssemblyReference.cache
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\SimpleWebApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\SimpleWebApplication.Infrastructure.AssemblyInfoInputs.cache
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\SimpleWebApplication.Infrastructure.AssemblyInfo.cs
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\SimpleWebApplication.Infrastructure.csproj.CoreCompileInputs.cache
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\SimpleWebApplication.Infrastructure.csproj.CopyComplete
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\SimpleWebApplication.Infrastructure.dll
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\refint\SimpleWebApplication.Infrastructure.dll
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\SimpleWebApplication.Infrastructure.pdb
+D:\source\repos\SimpleWebApplication.WebApi\SimpleWebApplication.Infrastructure\obj\Debug\net7.0\ref\SimpleWebApplication.Infrastructure.dll

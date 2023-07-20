@@ -1,0 +1,116 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+h3{
+    text-align:left;
+}
+body {
+  margin-bottom: 60px;
+}
+
+table > thead
+td {
+    border: thin solid #808080;
+    align-items: start;
+    width: 230px;
+}
+table > tbody
+td {
+    border: thin solid #808080;
+   text-align:start;
+    
+}
+
+
+table {
+    border-bottom: 1px solid #808080;
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+    align-items: start;
+ 
+}
+.grids {
+   border:none;
+}
+
+thead,
+tfoot {
+   
+    margin-left: 1px;
+    
+    color: gray;
+}
+
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+    
+}
+
+label,
+input {
+    display: table-cell;
+    margin-bottom: 10px;
+    width:200px
+}
+
+label {
+    padding-right: 10px;
+    width:0px;
+}
+
+.container {
+    height: 900px;
+    width: 70%;
+ 
+    margin: 10px auto;
+    position: relative;
+    text-align: center
+}
+.smallcontainer {
+    width: 566px;
+    border-bottom: 1px solid #808080;
+    border-top: 1px solid #808080;
+    margin-left: 10px;
+    margin-top:30px;
+    height: 270px;
+    float: left;
+    
+  
+}
+.hugeblock {
+    height: 280px;
+    width: 280px;
+    margin: 1px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.block {
+    height: 290px;
+    width: 280px;
+    margin: 1px;
+    display: inline-block;
+    margin-top:10px;
+   
+}
